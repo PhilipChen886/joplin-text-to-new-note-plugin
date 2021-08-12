@@ -1,0 +1,14 @@
+{
+	"manifest_version": 1,
+	"id": "text.to.newnote.joplin.plugin",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "Text to New Note",
+	"description": "A plugin to create new note from selected text.",
+	"author": "Philip Chen",
+	"homepage_url": "N/A",
+	"repository_url": "TBA",
+	"keywords": [],
+	"_publish_hash": "sha256:8aba76b350dbee782b79b01d108a1012c979d7bcd4e372511aaffbeb3e64c77e",
+	"_publish_commit": ""
+}
